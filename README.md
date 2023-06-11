@@ -3,7 +3,7 @@ Second homework assignment for CSC 318 (Internet Programming) course
 
 Name: Talike Bennett
 
-Date Completed: -
+Date Completed: 06/10/2023
 
 Instructions: https://fullstackdecal.com/docs/Assignments/Homework/HW2
 
